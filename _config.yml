@@ -1,6 +1,6 @@
 # Site settings
-title: "6.884 Computational Aspects of Therapeutic Design"
-description: "Course materials and notes for MIT class 6.884 Computational Aspects of Therapeutic Design"
+title: "6.S084, 6.884, 20.S940, 20.S948 Computational Aspects of Therapeutic Design"
+description: "Course materials and notes for MIT class 6.S084, 6.884, 20.S940, 20.S948 Computational Aspects of Therapeutic Design"
 baseurl: ""
 url: "https://mit-6884.github.io/6.884-Fall2019/"
 #url: "127.0.0.1"
